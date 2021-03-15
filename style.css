@@ -15,7 +15,7 @@ input[type=text]:focus{
 
 }
 
-.todos sli{
+.todos li{
     background: #423a6f;
 }
 

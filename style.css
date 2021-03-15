@@ -15,8 +15,17 @@ input[type=text]:focus{
 
 }
 
-.todos li{
+.todos li {
     background: #423a6f;
+}
+
+.search{
+    background: #423a6f;
+}
+
+.m-auto{
+    background: #423a6f;
+    
 }
 
 .delete{
